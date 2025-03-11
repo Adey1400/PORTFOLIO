@@ -100,11 +100,16 @@ nav {
 }
 
 .Heading,
-.HEADSOCIAL,
+.HEADSOCIAL{
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
 .headContain {
     font-size: 20px;
     font-weight: bold;
     margin-bottom: 20px;
+    margin-top: 70px;
 }
 
 .paragraph1,
